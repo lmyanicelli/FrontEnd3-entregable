@@ -1,5 +1,5 @@
 #Primer entregable FrontEnd III - CTD
-Proyecto en React: Elije tu propia aventura
+Proyecto en React: Elige tu propia aventura
 
 #Link de githubpages: https://lmyanicelli.github.io/FrontEnd3-entregable/
 

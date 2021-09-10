@@ -1,3 +1,14 @@
+#Primer entregable FrontEnd III - CTD
+Proyecto en React: Elije tu propia aventura
+
+#Link de githubpages: https://lmyanicelli.github.io/FrontEnd3-entregable/
+
+#Link de codesandbox: https://codesandbox.io/s/xenodochial-butterfly-d1t60
+
+
+-----------------------------------------------------
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
